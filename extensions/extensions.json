@@ -187,6 +187,57 @@
             "website": "https://github.com/alexdaversa/pyRevit-Autosave",
             "image": "",
             "dependencies": []
+        },
+
+        {
+            "default_enabled": "False",
+            "type": "extension",
+            "rocket_mode_compatible": "True",
+            "name": "GOLOS_Architecture",
+            "description": "Плагины ГОЛОС.АР",
+            "author": "Департамент информационного моделирования ГОЛОС",
+            "url": "https://git.golos.click/pyrevit_extention/golos_architecture",
+            "dependencies": []
+        },
+        {
+            "default_enabled": "False",
+            "type": "extension",
+            "rocket_mode_compatible": "True",
+            "name": "GOLOS_Construction",
+            "description": "Плагины ГОЛОС.АС",
+            "author": "Департамент информационного моделирования ГОЛОС",
+            "url": "https://git.golos.click/pyrevit_extention/golos_construction",
+            "dependencies": []
+        },
+        {
+            "default_enabled": "False",
+            "type": "extension",
+            "rocket_mode_compatible": "True",
+            "name": "GOLOS_SMU",
+            "description": "Плагины ГОЛОС.СМУ",
+            "author": "Департамент информационного моделирования ГОЛОС",
+            "url": "https://git.golos.click/pyrevit_extention/golos_smu.git",
+            "dependencies": []
+        },
+        {
+            "default_enabled": "False",
+            "type": "extension",
+            "rocket_mode_compatible": "True",
+            "name": "GOLOS_MEP",
+            "description": "Плагины вкладки ГОЛОС.Сети",
+            "author": "Департамент информационного моделирования ГОЛОС",
+            "url": "https://git.golos.click/pyrevit_extention/golos_mep",
+            "dependencies": []
+        },
+        {
+            "default_enabled": "False",
+            "type": "extension",
+            "rocket_mode_compatible": "True",
+            "name": "SMU_name",
+            "description": "SMU description",
+            "author": "DIM_GOLOS author",
+            "url": "https://git.golos.click/pyrevit_extention/smu.git",
+            "dependencies": []
         }
         
     ]

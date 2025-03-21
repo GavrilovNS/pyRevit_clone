@@ -41,7 +41,7 @@ Icon?
 *.pyc
 
 # ignore local config file
-*.ini
+#*.ini
 
 # Release and installer files
 release/pyrevit*cache
