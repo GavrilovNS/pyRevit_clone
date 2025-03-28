@@ -238,6 +238,16 @@
             "author": "DIM_GOLOS author",
             "url": "https://git.golos.click/pyrevit_extention/smu.git",
             "dependencies": []
+        },
+        {
+            "default_enabled": "False",
+            "type": "extension",
+            "rocket_mode_compatible": "True",
+            "name": "ГОЛОС.Сети",
+            "description": "Плагины вкладки ГОЛОС.Сети",
+            "author": "Департамент информационного моделирования ГОЛОС",
+            "url": "https://git.golos.click/pyrevit_extention/independent/golos_mep",
+            "dependencies": []
         }
         
     ]
